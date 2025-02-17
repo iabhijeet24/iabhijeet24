@@ -32,7 +32,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iabhijeet24/iabhijeet24/output/snake.svg" alt="Snake animation" />
 
 ###
 
