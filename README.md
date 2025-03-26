@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Web Development<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
@@ -31,13 +31,16 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iabhijeet24&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ###
 <h3 align="left">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iabhijeet24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iabhijeet24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+</br>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhijeet24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ###
@@ -45,4 +48,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iabhijeet24&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+###
+<div align="center">### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 
